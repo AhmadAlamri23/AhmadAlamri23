@@ -1,16 +1,48 @@
-## Hi there 👋
+# Ahmad Alharbi
 
-<!--
-**AhmadAlamri23/AhmadAlamri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Penetration Tester · Offensive Security**
 
-Here are some ideas to get you started:
+Aspiring penetration tester focused on the full attack lifecycle — enumeration, exploitation, privilege escalation, and post-exploitation. Currently grinding toward **OSCP** with a "Try Harder" mindset. Also building at the intersection of **cybersecurity and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Focus
+
+- **Offensive Security** — Web, Network, and Active Directory penetration testing
+- **Methodology** — White-box & black-box testing, structured and repeatable
+- **Security + AI** — applying ML models to threat detection
+
+
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛰️ **IoT Threat Detection with AI** | Detecting threats against IoT devices using AI/ML models *(coming soon)* |
+| 📓 **Pentest Notes & Writeups** | Sanitized lab writeups and methodology from PG, HTB & THM |
+
+---
+
+### 📚 Currently Training On
+
+- OffSec Proving Grounds
+- Hack The Box
+- TryHackMe
+
+---
+
+### 🏆 Certifications
+- ejpt
+- **OSCP** — *in progress*
+
+---
+
+### 📫 Connect
+
+- LinkedIn: 
+- Email: 
+
+
+
